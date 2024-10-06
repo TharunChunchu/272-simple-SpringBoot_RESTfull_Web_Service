@@ -15,8 +15,8 @@ This project is built with Spring Boot, using Maven for dependency management.
 
 ### 1. Clone the Repository
 
-git clone <repository-url>
-cd simple-rest-service
+git clone https://github.com/TharunChunchu/272-simple-SpringBoot_RESTfull_Web_Service.git
+cd 272-simple-SpringBoot_RESTfull_Web_Service
 
 ### Building the Project
 mvn clean install
